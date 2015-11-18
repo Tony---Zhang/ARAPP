@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General color -->
+    <color name="light_green">#FFBBFFBB</color>
+
+    <!-- main UI color -->
+    <color name="header_bottom_background">#FF3B44A8</color>
+    <color name="header_bottom_highlight">#FF0483FF</color>
+    <color name="header_bottom_darken">#FF02427F</color>
+
+    <!-- text -->
+    <color name="title_text_color">#FFFFFFFF</color>
+    <color name="content_text_color">#FF000000</color>
+
+    <!-- drawer -->
+    <color name="drawer_bg_color">#FF2F3584</color>
+
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="drawer_list_selected_darken">#FF141952</drawable>
+
+    <color name="drawer_list_text_color">#FFF9F9FF</color>
+    <color name="drawer_list_divider_color">#FF121433</color>
+
+    <!-- bottom Menu -->
+    <color name="bottom_menu_border_pressed">#C01E2357</color>
+    <color name="bottom_menu_button_selected">#FF1E2357</color>
+    <color name="bottom_menu_text_normal">#FFF0F0F0</color>
+    <color name="bottom_menu_text_selected">#FFFFFFFF</color>
+
+    <!-- search -->
+    <color name="search_current_location_bg_color">#A04896FF</color>
+
+    <!-- Button -->
+    <color name="btn_text_dark">#FFC7C7C7</color>
+    <color name="btn_text_light">#FFFFFFFF</color>
+    <color name="btn_map_text">#FF000000</color>
+    <color name="btn_background_normal">#FF3B44A8</color>
+    <color name="btn_background_light">#FF0483FF</color>
+    <color name="btn_background_darken">#FF1E2357</color>
+    
+    <!-- UI component -->
+    <color name="compass_text_color">#0B0974</color>
+    <color name="compass_direction_text">#071672</color>
+    <color name="compass_sub_direction_text">#CC5C519C</color>
+    <color name="compass_marker">#0B0974</color>
+    <color name="compass_marker_shadow">#7573D9</color>
+    <color name="compass_arrow">#CC27025E</color>
+    <color name="compass_arrow_shadow">#9240D5</color>
+    <color name="background_color">#F000</color>
+    <color name="marker_color">#00FFFF</color>
+    <color name="shadow_color">#FF007AAA</color>
+    <color name="outer_border">#FF444444</color>
+    <color name="inner_border_one">#FF323232</color>
+    <color name="inner_border_two">#FF414141</color>
+    <color name="inner_border">#FFFFFFFF</color>
+    <color name="horizon_sky_from">#FFA52A2A</color>
+    <color name="horizon_sky_to">#FFFFC125</color>
+    <color name="horizon_ground_from">#FF5F9EA0</color>
+    <color name="horizon_ground_to">#FF00008B</color>
+    <color name="text_color2">#F0F0</color>
+    <color name="transparent_color">#0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="glass_shadow_3">#1F4C90FF</color>
+    <color name="glass_shadow_2">#FF00FF00</color>
+    <color name="glass_shadow_1">#FF0000FF</color>
+    <color name="glass_shadow_0">#FFBBFFBB</color>
+
+    <!-- Radar related color -->
+    <color name="radar_line_color">#960000DC</color>
+    <color name="radar_color">#640000C8</color>
+    
+    <!-- welcome -->
+    <color name="welcome_background">#5F96A9FF</color>
+    <color name="welcome_text">#FF5768B2</color>
+
+</resources>

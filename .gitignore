@@ -1,4 +1,13 @@
 #################
+## Studio
+#################
+.gradle
+**/local.properties
+*.iml
+.idea
+/build
+
+#################
 ## Eclipse
 #################
 
