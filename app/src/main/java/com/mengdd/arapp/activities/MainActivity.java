@@ -87,7 +87,12 @@ public class MainActivity extends Activity {
                 doDistanceAnalyze();
             }
         });
-
+        findViewById(R.id.sensor).setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, SensorTestActivity.class));
+            }
+        });
     }
 
     private void initDrawerList() {

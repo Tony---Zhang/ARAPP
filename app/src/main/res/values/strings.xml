@@ -221,5 +221,6 @@
     <string name="welcome_email">mengdandanno1@163.com</string>
     <string name="welcome_blog">http://www.cnblogs.com/mengdd/</string>
     <string name="welcome_time">“@2013”</string>
+    <string name="title_activity_sensor_test">SensorTestActivity</string>
 
 </resources>
